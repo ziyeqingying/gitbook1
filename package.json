@@ -1,0 +1,22 @@
+{
+  "name": "gitbook1",
+  "version": "1.0.0",
+  "description": "read  me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziyeqingying/gitbook1.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ziyeqingying/gitbook1/issues"
+  },
+  "homepage": "https://github.com/ziyeqingying/gitbook1#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
